@@ -1,0 +1,11 @@
+server:
+  port: 5556
+
+redis:
+  addr: localhost:6379
+  pwd: qwerty
+
+mongodb:
+  addr: localhost:27017
+  db: gobang
+  collection: log
