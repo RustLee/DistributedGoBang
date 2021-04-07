@@ -1,8 +1,8 @@
 <template>
     <el-form>
-        <el-form-item :label="$t('lang.about.author')">Joshua Wang</el-form-item>
-        <el-form-item :label="$t('lang.about.email')">urfriendmyfriend@163.com</el-form-item>
-        <el-form-item :label="$t('lang.about.github')">https://github.com/AnizOoalGown</el-form-item>
+        <el-form-item :label="$t('lang.about.author')">李秋阳 邓浩霖 周至</el-form-item>
+        <el-form-item :label="$t('lang.about.email')">13689524996@163.com</el-form-item>
+        <el-form-item :label="$t('lang.about.github')">https://github.com/RustLee</el-form-item>
     </el-form>
 </template>
 

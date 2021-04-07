@@ -28,7 +28,7 @@ export const lang = {
         game: 'Game',
         settings: 'Settings',
         about: 'About',
-        title: 'Gobang Online v0.1'
+        title: 'Online Gobang Game'
     },
     about: {
         author: 'author',

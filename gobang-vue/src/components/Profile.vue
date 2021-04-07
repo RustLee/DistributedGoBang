@@ -38,7 +38,7 @@
         margin-top: 5%;
     }
     .header {
-        border-bottom: 1px solid lightgrey;
+        border-bottom: 1px solid rgb(111, 178, 255);
         padding: 2% 0 2% 5%;
     }
     .title {

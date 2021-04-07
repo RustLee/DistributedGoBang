@@ -39,9 +39,10 @@
         min-width: 1200px;
     }
     .brand-name {
-        font-size: x-large;
+        font-size: 25px;;
         font-style: italic;
         float: right;
+        margin-right: 0.5%;
         margin-top: 1%;
     }
 </style>

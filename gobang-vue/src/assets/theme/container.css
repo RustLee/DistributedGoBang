@@ -2,14 +2,14 @@
     -webkit-border-radius: 5px;
     border-radius: 5px;
     -moz-border-radius: 5px;
-    background: #FFF;
-    border: 1px solid lightgrey;
-    box-shadow: 0 0 25px #cac6c6;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(111, 178, 255);
+    box-shadow: 0 0 25px #dce8f5;
 }
 .container {
     -webkit-border-radius: 5px;
     border-radius: 5px;
     -moz-border-radius: 5px;
-    background: #FFF;
-    border: 1px solid lightgrey;
+    background: rgb(166, 208, 236);
+    border: 1px solid rgb(111, 178, 255);
 }

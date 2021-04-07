@@ -28,7 +28,7 @@ export const lang = {
         game: '游戏',
         settings: '设置',
         about: '关于',
-        title: '五子棋在线v0.1'
+        title: '在线五子棋游戏'
     },
     about: {
         author: '作者',
@@ -37,7 +37,7 @@ export const lang = {
     },
     login: {
         login: '登录',
-        placeholder: '输入您的匿名'
+        placeholder: '输入您的昵称'
     },
     playerTable: {
         playerList: '玩家列表',

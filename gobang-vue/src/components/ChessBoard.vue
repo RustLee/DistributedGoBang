@@ -312,7 +312,7 @@
     canvas {
         display: block;
         margin: 0px auto;
-        box-shadow: -2px -2px 2px #EFEFEF, 5px 5px 5px #B9B9B9;
+        box-shadow: -2px -2px 2px #c0e0ee, 5px 5px 5px #b7d2dd;
         cursor: pointer;
         pointer-events: auto;
         background-image: url("../assets/images/chessboard.jpg");
